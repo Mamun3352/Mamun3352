@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 CSE Student | Software & Web Developer | AI Enthusiast<br><br>I'm a Computer Science & Engineering student at Green University of Bangladesh, passionate about building practical software solutions and exploring emerging technologies.<br><br>🚀 What I Do<br>💻 Develop web applications and software projects<br>🤖 Explore Artificial Intelligence, NLP, and LLM-based systems<br>🗄️ Work with databases and backend development<br>🌐 Build interactive and user-friendly web interfaces<br>🧠 Learn about Data Structures, Algorithms, Software Engineering, and Computer Networks<br>🔧 Enjoy working on hardware/software projects with Arduino and embedded systems
+🎓 CSE Student | Software & Web Developer | AI Enthusiast<br><br>I'm a Computer Science & Engineering student , passionate about building practical software solutions and exploring emerging technologies.<br><br>🚀 What I Do<br>💻 Develop web applications and software projects<br>🤖 Explore Artificial Intelligence, NLP, and LLM-based systems<br>🗄️ Work with databases and backend development<br>🌐 Build interactive and user-friendly web interfaces<br>🧠 Learn about Data Structures, Algorithms, Software Engineering, and Computer Networks<br>🔧 Enjoy working on hardware/software projects with Arduino and embedded systems
 
 
 ## 🌐 Socials:
